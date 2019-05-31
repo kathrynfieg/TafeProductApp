@@ -76,3 +76,15 @@ C:\Users\001061267\Desktop\5tsd_test_1\MyProduct\TafeProductApp\ProductMaintenan
 C:\Users\001061267\Desktop\5tsd_test_1\MyProduct\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps.g.resources
 C:\Users\001061267\Desktop\5tsd_test_1\MyProduct\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps.Properties.Resources.resources
 C:\Users\001061267\Desktop\5tsd_test_1\MyProduct\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps.csproj.GenerateResource.Cache
+C:\Users\001061267\Desktop\5tsd_test_1\MyWrap\TafeProductApp\ProductMaintenance\ProductApps\bin\Debug\ProductApps.exe.config
+C:\Users\001061267\Desktop\5tsd_test_1\MyWrap\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps.exe
+C:\Users\001061267\Desktop\5tsd_test_1\MyWrap\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps.pdb
+C:\Users\001061267\Desktop\5tsd_test_1\MyWrap\TafeProductApp\ProductMaintenance\ProductApps\bin\Debug\ProductApps.exe
+C:\Users\001061267\Desktop\5tsd_test_1\MyWrap\TafeProductApp\ProductMaintenance\ProductApps\bin\Debug\ProductApps.pdb
+C:\Users\001061267\Desktop\5tsd_test_1\MyWrap\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\MainWindow.baml
+C:\Users\001061267\Desktop\5tsd_test_1\MyWrap\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\MainWindow.g.cs
+C:\Users\001061267\Desktop\5tsd_test_1\MyWrap\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\App.g.cs
+C:\Users\001061267\Desktop\5tsd_test_1\MyWrap\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps_MarkupCompile.cache
+C:\Users\001061267\Desktop\5tsd_test_1\MyWrap\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps.g.resources
+C:\Users\001061267\Desktop\5tsd_test_1\MyWrap\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps.Properties.Resources.resources
+C:\Users\001061267\Desktop\5tsd_test_1\MyWrap\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps.csproj.GenerateResource.Cache
